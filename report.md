@@ -7,9 +7,9 @@
 На тестирование затрачено: 4 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* [Result is FAIL при вводе номера карты системы Diners Club - International](https://github.com/nntalita/IntJavaHW2/issues/1#issue-992655790)
-* [Result is FAIL при вводе номера карты системы Diners Club - Carte Blanche](https://github.com/nntalita/IntJavaHW2/issues/2#issue-992660981)
-* [Result is FAIL при вводе номера карты системы Diners Club - International](https://github.com/nntalita/IntJavaHW2/issues/3#issue-992668641)
+* [Result is FAIL при вводе номера карты системы Diners Club - International](https://github.com/nntalita/Introduction-to-Java-1.2/issues/3#issue-993852290)
+* [Result is FAIL при вводе номера карты системы Diners Club - Carte Blanche](https://github.com/nntalita/Introduction-to-Java-1.2/issues/2#issue-993851925)
+* [Result is FAIL при вводе номера карты системы Diners Club - International](https://github.com/nntalita/Introduction-to-Java-1.2/issues/1#issue-993851627)
 
 
 ## Описание процесса тестирования
